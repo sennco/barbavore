@@ -10,7 +10,7 @@ export default {
           smoke: "#F5F5F5",
           transp:"rgba(245, 245, 245, 0.1);",
           border:"rgba(245, 245, 245, 0.3);",
-          background: "#603F26",
+          background: "#4F4C33",
       },
     },
   },
