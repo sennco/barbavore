@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className="mt-24 items-center flex flex-col">
         <img
-          className="w-44 h-fit rounded-full"
+          className="w-36 h-fit rounded-full"
           src={perfil}
           alt="Foto de perfil de Barbavore"
         />
