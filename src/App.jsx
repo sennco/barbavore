@@ -1,6 +1,6 @@
 import Header from "./components/header/Header";
 import Footerr from "./components/footer/Footerr";
-import Agenda from "./components/social/Agenda";
+//import Agenda from "./components/social/Agenda";
 import AssinaturaClr from "./components/social/AssinaturaClr";
 import AssinaturaJdc from "./components/social/AssinaturaJdc";
 import WhatsappClr from "./components/social/WhatsappClr";
@@ -12,7 +12,6 @@ function App() {
   return (
       <div className="flex flex-col align-middle h-screen bg-background bg-cover" >
       <Header />
-      <Agenda/>
       <AssinaturaClr/>
       <WhatsappClr/>
       <AssinaturaJdc/>
